@@ -1,0 +1,6 @@
+baseURL = "https://oplegends.com/"
+languageCode = "en-us"
+title = "OPLegends"
+
+[permalinks]
+  blog = "/:year/:month/:day/:slug/"
